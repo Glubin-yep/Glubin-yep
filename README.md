@@ -42,7 +42,12 @@ Software Developer
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Glubin-yep" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+  
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dmytro-chyr-15a631184/" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dmytro-chyr-15a631184/" height="32" width="32" /></a>
+  
+</p>
 
 
 <h1 align="center">My GitHub Stats</h1>
