@@ -5,7 +5,6 @@ Software Developer
 ------------
 
 * 🌍  I'm based in Ukraine
-* 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Interesting project
 
 ###  👩‍💻 Languages 
@@ -26,12 +25,20 @@ Software Developer
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-3C5A99?style=for-the-badge&logo=auth0&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![SignalR](https://img.shields.io/badge/SignalR-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 ![xUnit](https://img.shields.io/badge/xUnit-%230073A6.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge)
+![Zustand](https://img.shields.io/badge/Zustand-4E4E4E?style=for-the-badge)
+![Magic Leap](https://img.shields.io/badge/Magic_Leap_SDK-5C2D91?style=for-the-badge)
+![OpenXR](https://img.shields.io/badge/OpenXR-111111?style=for-the-badge&logoColor=white)
+
+
 
 
 </p>
@@ -64,6 +71,7 @@ Software Developer
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity_2022.3-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 
 
@@ -78,14 +86,11 @@ Software Developer
 
 
 <h1 align="center">My GitHub Stats</h1>
-<div align="center">
-<a href="http://www.github.com/Glubin-yep" align="center"><img src="https://github-readme-stats.vercel.app/api?username=Glubin-yep&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Glubin-yep's GitHub stats" /></a>
-</div>
 <div align="center"> 
 <a href="http://www.github.com/Glubin-yep" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Glubin-yep&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
 
 <div align="center">
   
-  <a href="https://github.com/Glubin-yep" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glubin-yep&langs_count=10&title_color=0891b2&theme=dark&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="50%"/></a>  
+  [![Top Languages](https://helio-github-stats.vercel.app/api/top-langs?username=Glubin-yep&layout=normal&stats_format=percentages&theme=dark&hide_border=true&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Top+Languages)](https://nice-readme.vercel.app/top-langs)
 </div>
